@@ -102,3 +102,6 @@ POST: Envia informações para uma API, geralmente para criar um novo registro.
 NOME:JOSE LIMA 
 post: envia 
 get : ler
+
+kauan:
+"voce pode levar o cavalo ate a agua, mas a agua nao irá beber o cavalo"
