@@ -103,3 +103,7 @@ GET: serve para buscar ou consultar dados.
 
 POST: serve para enviar dados ao servidor, geralmente para criar algo novo ou executar uma ação.
 
+Nome: André
+"Get: busca/consulta"
+"Post: serve para subir ao server"
+
