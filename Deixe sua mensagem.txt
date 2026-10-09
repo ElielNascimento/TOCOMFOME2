@@ -17,3 +17,6 @@ Nome: jose luiz
 Nome: lucas
 "bom sabado"
 >>>>>>> 67733a47a74116b233bff11085f91e1c4ae71e44
+
+Nome: Kauan
+"Amassei todo mundo no krunker"
