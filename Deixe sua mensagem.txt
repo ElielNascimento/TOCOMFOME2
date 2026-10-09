@@ -59,7 +59,7 @@ GET - Requisitar ou acessar um dado
 POST - Subir / compartilhar uma informação nova
 
 Juliano: é isso ai mesmo que a stephany colocou ^^
-
+(metodo get serve para consultar e recuperar dados de um servidor, enquanto o método POST serve para enviar dados para criar ou modificar recursos)
 Nome: jose luiz 
 O GET serve para buscar ou consultar informações de uma API, e o POST serve para enviar informações, como cadastrar um novo usuário.
 
@@ -96,3 +96,12 @@ Gustavo GET: Busca ou consulta informações de uma API.
 POST: Envia informações para uma API, geralmente para criar um novo registro.
 
 
+<<<<<<< HEAD
+=======
+NOME:JOSE LIMA 
+post: envia 
+get : ler
+
+kauan:
+"voce pode levar o cavalo ate a agua, mas a agua nao irá beber o cavalo"
+>>>>>>> e2c2c115dcc8f893bf512da5b3daeeca3fc3e4c1
