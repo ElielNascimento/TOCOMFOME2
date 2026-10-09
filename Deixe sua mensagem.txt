@@ -10,9 +10,6 @@ NOME: Stephany
 
 Nome: jose luiz
 "Me de nota, por favor"
-<<<<<<< HEAD
-=======
->>>>>>> 66255787bc01de56452782feea38e90ecad52c36
 
 Nome: lucas
 "bom sabado"
@@ -20,3 +17,6 @@ Nome: lucas
 
 Nome: Kauan
 "Amassei todo mundo no krunker"
+
+Nome: Juliano
+" Bom final de semana e bom descanso professor! Você é muito legal e gosto muito de você! Qual chocolate você aceita em troca de 0.5 pontos na média? - com carinho juliano "
