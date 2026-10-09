@@ -9,3 +9,12 @@ Nome: José Luiz
 
 "Me de nota, por favor"
 >>>>>>> f4a4c7a0bc10f4646192bdaf0f9caf2be37ca8de
+<<<<<<< HEAD
+
+
+Nome: João Marcos
+"Fiz uma promessa a mim mesmo"
+=======
+>>>>>>> a4cbb35046cd02dcd6a821bbddb7f11d13ba8253
+>>>>>>> 9ed0879c2773605c10520a103d619a457287b15f
+>>>>>>> 8cf2c5b6ac28d7324b448994cd1608cc85241e47
