@@ -70,7 +70,9 @@ Nome: Gustavo Bernardo
 
 
 
-
+---------------
+nome: lucas Fernandes de araujo 
+post: serve para enviar dados ao servidor / get pra consultar 
 
 
 
