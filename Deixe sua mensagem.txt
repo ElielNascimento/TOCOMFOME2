@@ -86,7 +86,9 @@ nome: jose lima
 POST: ele envia 
 GET: ele ler 
 =======
-
+jose lopes
+post
+get
 
 
 
