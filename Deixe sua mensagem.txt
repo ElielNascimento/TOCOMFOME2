@@ -10,3 +10,7 @@ Nome: José Luiz
 
 "Me de nota, por favor"
 >>>>>>> f4a4c7a0bc10f4646192bdaf0f9caf2be37ca8de
+
+
+Nome: João Marcos
+"Fiz uma promessa a mim mesmo"
