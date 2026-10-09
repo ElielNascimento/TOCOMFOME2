@@ -99,4 +99,6 @@ Gustavo GET: Busca ou consulta informações de uma API.
 POST: Envia informações para uma API, geralmente para criar um novo registro.
 
 
->>>>>>> 9d80455592275f98436b52675d5e058b34f33548
+NOME:JOSE LIMA 
+post: envia 
+get : ler
