@@ -1,5 +1,17 @@
 Nome: Eliel
 " UMA COISA ORIGINAL NUNCA SE DESORIGINALIZA "
 
+<<<<<<< HEAD
 Nome: Gustavo Cunha
 "agua mole pedra dura, tanto bate até que fura"
+=======
+<<<<<<< HEAD
+Nome: jose luiz	
+adfioaiofaiofmpoasf
+=======
+
+Nome: José Luiz
+
+"Me de nota, por favor"
+>>>>>>> f4a4c7a0bc10f4646192bdaf0f9caf2be37ca8de
+>>>>>>> a4cbb35046cd02dcd6a821bbddb7f11d13ba8253
