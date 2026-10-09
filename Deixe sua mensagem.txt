@@ -1,13 +1,11 @@
 Nome: Eliel
 " UMA COISA ORIGINAL NUNCA SE DESORIGINALIZA "
 
+<<<<<<< HEAD
 Nome: jose luiz	
 adfioaiofaiofmpoasf
 
 Nome: José Luiz
 
 "Me de nota, por favor"
-
-Nome: Juliano
-
-" Bom final de semana e bom descanso professor! Você é muito legal e gosto muito de você! Qual chocolate você aceita em troca de 0.5 pontos na média? - com carinho juliano "
+>>>>>>> f4a4c7a0bc10f4646192bdaf0f9caf2be37ca8de
