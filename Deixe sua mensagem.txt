@@ -7,9 +7,6 @@ Nome: Gustavo Dena
 NOME: Stephany 
 "Jesus é bom e o diabo não presta"
 
-nome: jose augusto lopes
-"quero dar o toba"
-
 Nome: jose luiz
 "Me de nota, por favor"
 
@@ -45,6 +42,8 @@ NOME: TiagoKatarina
 
 Nome: André
 "São Paulo"
+nome: jsoe
+golverde
 
 
 
@@ -52,8 +51,13 @@ Nome: André
 
 pra que serve o get e post em uma api? 
 
+<<<<<<< HEAD
+Nome: Gustavo Cunha
+Resposta atividade --> o get serve para acessar, ou seja, visualizar o que está no banco, já o post é para adicionar uma nova linha no banco
+=======
 
 Stephany: 
+>>>>>>> 57e13d11722154a127d0326655cceceee2d8d08b
 
 GET - Requisitar ou acessar um dado
 POST - Subir / compartilhar uma informação nova
@@ -68,6 +72,43 @@ O GET serve para buscar ou consultar informações de uma API, e o POST serve pa
 
 Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
+
+<<<<<<< HEAD
+>>>>>>> 11747a60bcc60c9cc0ee2716e2c2d0faaa3461ef
+
+nome: jose lima 
+POST: ele envia 
+GET: ele ler 
+=======
+jose lopes
+post
+get
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+>>>>>>> ad1ff19e2cfa289d2eb1192ee32c1f04fc82474b
+=======
+>>>>>>> e2c2c115dcc8f893bf512da5b3daeeca3fc3e4c1
 
 nome: lucas Fernandes de araujo 
 post: serve para enviar dados ao servidor / get pra consultar 
