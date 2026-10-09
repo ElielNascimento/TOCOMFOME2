@@ -75,6 +75,8 @@ nome: lucas Fernandes de araujo
 post: serve para enviar dados ao servidor / get pra consultar 
 
 
+nome: gustavo krensi
+post serve para enviar dados ao servidor e get para requisitar dados
 
 kauan e joao marques: 
 =======
