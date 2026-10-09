@@ -76,26 +76,6 @@ post: serve para enviar dados ao servidor / get pra consultar
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 kauan e joao marques: 
 =======
 GET: serve para buscar ou consultar dados.
