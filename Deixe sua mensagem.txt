@@ -53,14 +53,30 @@ Nome: André
 
 pra que serve o get e post em uma api? 
 
+<<<<<<< HEAD
+Nome: William
+Resposta: "Sei lá"
+=======
 Em uma API, GET e POST são métodos HTTP que definem como você vai se comunicar com o servidor. A principal diferença é:
 
-GET: serve para buscar ou consultar dados.
+<<<<<<< HEAD
+Nome: jose luiz
+get serve para consultar e buscar e recuperar dados de um servidor
+post serve para enviar dados para o servidor
+=======
+Kauan: GET: serve para buscar ou consultar dados.
 
 POST: serve para enviar dados ao servidor, geralmente para criar algo novo ou executar uma ação.
 
 
+>>>>>>> 39734e66bd89af89870ca58dcedcbdc0814d81f3
 
+>>>>>>> 11747a60bcc60c9cc0ee2716e2c2d0faaa3461ef
+
+
+Nome: jose luiz
+get serve para consultar e buscar e recuperar dados de um servidor
+post serve para enviar dados para o servidor
 
 
 
