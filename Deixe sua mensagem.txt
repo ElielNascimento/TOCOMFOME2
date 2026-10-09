@@ -60,7 +60,7 @@ Nome: jose luiz
 get serve para consultar e buscar e recuperar dados de um servidor
 post serve para enviar dados para o servidor
 =======
-GET: serve para buscar ou consultar dados.
+Kauan: GET: serve para buscar ou consultar dados.
 
 POST: serve para enviar dados ao servidor, geralmente para criar algo novo ou executar uma ação.
 
