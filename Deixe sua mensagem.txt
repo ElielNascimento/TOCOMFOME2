@@ -40,6 +40,7 @@ NOME: Luan
 "fui MUITO amassado"
 
 Nome: André
+<<<<<<< HEAD
 "São Paulo"
 
 
@@ -56,4 +57,10 @@ pra que serve o get e post em uma api?
 
 
 
+=======
+"São Paulo"
+
+Nome: Gustavo Bernardo
+"você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
+>>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
 
