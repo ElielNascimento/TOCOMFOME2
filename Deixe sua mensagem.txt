@@ -36,10 +36,6 @@ NOME: Luan
 Nome: pedro 
 matar 2 coelhos com uma cajadada so 
 
-<<<<<<< HEAD
-nome: jose lima 
-"eu hango"
-=======
 NOME: Luan 
 "fui MUITO amassado"
 
@@ -72,38 +68,6 @@ O GET serve para buscar ou consultar informações de uma API, e o POST serve pa
 
 Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
-<<<<<<< HEAD
->>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
-
-<<<<<<< HEAD
->>>>>>> 11747a60bcc60c9cc0ee2716e2c2d0faaa3461ef
-
-nome: jose lima 
-POST: ele envia 
-GET: ele ler 
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> ad1ff19e2cfa289d2eb1192ee32c1f04fc82474b
 
 
 
@@ -125,4 +89,7 @@ Nome: André
 "Get: busca/consulta"
 "Post: serve para subir ao server"
 
->>>>>>> c729160fa00235c0c5a5e82a37353066894c02f7
+Gustavo GET: Busca ou consulta informações de uma API.
+POST: Envia informações para uma API, geralmente para criar um novo registro.
+
+
