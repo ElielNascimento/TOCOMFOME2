@@ -71,3 +71,35 @@ Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
 >>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kauan e joao marques: 
+=======
+GET: serve para buscar ou consultar dados.
+
+POST: serve para enviar dados ao servidor, geralmente para criar algo novo ou executar uma ação.
+
