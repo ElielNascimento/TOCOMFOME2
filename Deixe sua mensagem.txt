@@ -50,7 +50,10 @@ Nome: André
 pra que serve o get e post em uma api? 
 
 
+Stephany: 
 
+GET - Requisitar ou acessar um dado
+POST - Subir / compartilhar uma informação nova
 
 
 
