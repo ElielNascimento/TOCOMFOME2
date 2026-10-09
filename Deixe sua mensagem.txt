@@ -25,9 +25,16 @@ Nome: William
 <<<<<<< HEAD
 
 
+Nome: Gustavo Dena
+"Nota por favor Eliel"
+=======
+<<<<<<< HEAD
+
+
 Nome: João Marcos
 "Fiz uma promessa a mim mesmo"
 =======
 >>>>>>> a4cbb35046cd02dcd6a821bbddb7f11d13ba8253
 >>>>>>> 9ed0879c2773605c10520a103d619a457287b15f
 >>>>>>> 8cf2c5b6ac28d7324b448994cd1608cc85241e47
+>>>>>>> fc23cff474dc7632c225adc9da555a60003c7976
