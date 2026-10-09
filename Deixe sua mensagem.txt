@@ -49,7 +49,8 @@ Nome: André
 
 pra que serve o get e post em uma api? 
 
-
+Nome: Gustavo Cunha
+Resposta atividade --> o get serve para acessar, ou seja, visualizar o que está no banco, já o post é para adicionar uma nova linha no banco
 
 
 
