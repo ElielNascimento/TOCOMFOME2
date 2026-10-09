@@ -33,10 +33,6 @@ NOME: Luan
 Nome: pedro 
 matar 2 coelhos com uma cajadada so 
 
-<<<<<<< HEAD
-nome: jose lima 
-"eu hango"
-=======
 NOME: Luan 
 "fui MUITO amassado"
 
@@ -67,7 +63,7 @@ GET - Requisitar ou acessar um dado
 POST - Subir / compartilhar uma informação nova
 
 Juliano: é isso ai mesmo que a stephany colocou ^^
-
+(metodo get serve para consultar e recuperar dados de um servidor, enquanto o método POST serve para enviar dados para criar ou modificar recursos)
 Nome: jose luiz 
 O GET serve para buscar ou consultar informações de uma API, e o POST serve para enviar informações, como cadastrar um novo usuário.
 
@@ -76,6 +72,7 @@ O GET serve para buscar ou consultar informações de uma API, e o POST serve pa
 
 Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
 
@@ -110,6 +107,8 @@ get
 
 =======
 >>>>>>> ad1ff19e2cfa289d2eb1192ee32c1f04fc82474b
+=======
+>>>>>>> e2c2c115dcc8f893bf512da5b3daeeca3fc3e4c1
 
 
 
@@ -121,7 +120,7 @@ post: serve para enviar dados ao servidor / get pra consultar
 nome: gustavo krensi
 post serve para enviar dados ao servidor e get para requisitar dados
 
-kauan e joao marques: 
+kauan E joao marques: 
 =======
 GET: serve para buscar ou consultar dados.
 
@@ -131,4 +130,19 @@ Nome: André
 "Get: busca/consulta"
 "Post: serve para subir ao server"
 
->>>>>>> c729160fa00235c0c5a5e82a37353066894c02f7
+<<<<<<< HEAD
+
+Nome: Matheus Augusto
+Resposta: get -> para fazer uma busca/consulta
+ post -> serve para subir algo ao servido
+=======
+Gustavo GET: Busca ou consulta informações de uma API.
+POST: Envia informações para uma API, geralmente para criar um novo registro.
+
+
+NOME:JOSE LIMA 
+post: envia 
+get : ler
+
+kauan:
+"voce pode levar o cavalo ate a agua, mas a agua nao irá beber o cavalo"
