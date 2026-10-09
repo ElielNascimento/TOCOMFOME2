@@ -88,3 +88,7 @@ Nome: André
 "Get: busca/consulta"
 "Post: serve para subir ao server"
 
+
+Nome: Matheus Augusto
+Resposta: get -> para fazer uma busca/consulta
+ post -> serve para subir algo ao servido
