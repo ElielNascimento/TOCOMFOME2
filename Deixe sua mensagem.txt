@@ -48,7 +48,6 @@ NOME: TiagoKatarina
 "mid gap"
 
 Nome: André
-<<<<<<< HEAD
 "São Paulo"
 
 
@@ -63,16 +62,17 @@ Stephany:
 GET - Requisitar ou acessar um dado
 POST - Subir / compartilhar uma informação nova
 
+Juliano: é isso ai mesmo que a stephany colocou ^^
+
+Nome: jose luiz 
+O GET serve para buscar ou consultar informações de uma API, e o POST serve para enviar informações, como cadastrar um novo usuário.
 
 
-
-
-
-=======
 "São Paulo"
 
 Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
+<<<<<<< HEAD
 >>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
 
 <<<<<<< HEAD
@@ -102,11 +102,18 @@ GET: ele ler
 
 
 
+=======
+>>>>>>> ad1ff19e2cfa289d2eb1192ee32c1f04fc82474b
 
 
 
+---------------
+nome: lucas Fernandes de araujo 
+post: serve para enviar dados ao servidor / get pra consultar 
 
 
+nome: gustavo krensi
+post serve para enviar dados ao servidor e get para requisitar dados
 
 kauan e joao marques: 
 =======
