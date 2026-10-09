@@ -39,6 +39,10 @@ matar 2 coelhos com uma cajadada so
 NOME: Luan 
 "fui MUITO amassado"
 
+NOME: TiagoKatarina
+
+"mid gap"
+
 Nome: André
 <<<<<<< HEAD
 "São Paulo"
@@ -49,9 +53,16 @@ Nome: André
 
 pra que serve o get e post em uma api? 
 
+<<<<<<< HEAD
 Nome: Gustavo Cunha
 Resposta atividade --> o get serve para acessar, ou seja, visualizar o que está no banco, já o post é para adicionar uma nova linha no banco
+=======
 
+Stephany: 
+>>>>>>> 57e13d11722154a127d0326655cceceee2d8d08b
+
+GET - Requisitar ou acessar um dado
+POST - Subir / compartilhar uma informação nova
 
 
 
