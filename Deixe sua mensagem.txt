@@ -41,3 +41,7 @@ NOME: Luan
 
 Nome: André
 "São Paulo"
+
+Nome: Gustavo Bernardo
+"você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
+
