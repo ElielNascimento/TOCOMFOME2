@@ -1,6 +1,11 @@
 NOME: João Marques
 "Penso, logo farmo aura"
 
+<<<<<<< HEAD
 
 Nome: Gustavo Dena
 "A vida é uma sucessiva sucessão de sucessivas sucessividades"
+=======
+NOME: Stephany 
+"Jesus é bom e o diabo não presta"
+>>>>>>> 2ed3771427f5d0ffd468b12db09d2d58cec18329
