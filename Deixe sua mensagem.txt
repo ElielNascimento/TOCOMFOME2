@@ -44,7 +44,6 @@ NOME: TiagoKatarina
 "mid gap"
 
 Nome: André
-<<<<<<< HEAD
 "São Paulo"
 
 
@@ -59,17 +58,15 @@ Stephany:
 GET - Requisitar ou acessar um dado
 POST - Subir / compartilhar uma informação nova
 
+Juliano: é isso ai mesmo que a stephany colocou ^^
 
 
 
 
-
-=======
 "São Paulo"
 
 Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
->>>>>>> 1ddd3bd006985919c816758c9a6f843c5b50f4c4
 
 
 
