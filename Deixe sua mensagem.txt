@@ -60,7 +60,8 @@ POST - Subir / compartilhar uma informação nova
 
 Juliano: é isso ai mesmo que a stephany colocou ^^
 
-
+Nome: jose luiz 
+O GET serve para buscar ou consultar informações de uma API, e o POST serve para enviar informações, como cadastrar um novo usuário.
 
 
 "São Paulo"
