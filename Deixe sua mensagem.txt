@@ -69,9 +69,6 @@ O GET serve para buscar ou consultar informações de uma API, e o POST serve pa
 Nome: Gustavo Bernardo
 "você pode conduzir um cavalo até a água, mas não pode obrigá-lo a beber"
 
-
-
----------------
 nome: lucas Fernandes de araujo 
 post: serve para enviar dados ao servidor / get pra consultar 
 
@@ -99,4 +96,3 @@ Gustavo GET: Busca ou consulta informações de uma API.
 POST: Envia informações para uma API, geralmente para criar um novo registro.
 
 
->>>>>>> 9d80455592275f98436b52675d5e058b34f33548
